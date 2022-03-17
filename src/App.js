@@ -6,9 +6,18 @@ function App() {
   return (
     <div className="App">
       <h1>Incrase Decrease function</h1>
-      <Counter></Counter>
+      {/* <Counter></Counter> */}
     </div>
   );
+}
+
+//useEffect
+const ExternalUsers = () => {
+  return (
+    <div className="">
+      <h2>External Users</h2>
+    </div>
+  )
 }
 
 const Counter = () => {
