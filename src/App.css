@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* custom style */
+.container{
+ background-color: coral;
+ border-radius: 3px solid red;
+ padding: 20px;
+ margin: 20px;
+ border-radius: 20px;
+}
